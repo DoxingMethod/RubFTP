@@ -1,0 +1,6 @@
+If you've installed Ruby correctly using the enviroment settings on your PC. 
+Go to CMD and type 'cd desktop'.
+Drag the 'Access.gem' to your desktop.
+Type in cmd 'Ruby Access.gem'.
+It should take a min (Depending on your PC) and will open up a FTP connection and account management <3
+Enjoy
