@@ -1,8 +1,15 @@
-echo "# Ruby-" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git remote add origin https://github.com/SeekedNow/Ruby-.git
-  git push -u origin master
+# Information:
 
-This is just a pure import of a basic FTP manager.
+This is just a pure import of a basic FTP client manager in Ruby. It's very basic and I don't recommend anyone were to use
+this for an actual FTP manager.
+
+# Usage:
+(Linux)
+$ chmod +x Access.gem
+$ ./Access.gem
+
+(windows)
+$ ruby Access.gem
+
+# Credit:
+DoxingMethod
